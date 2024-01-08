@@ -17,8 +17,4 @@ The file *Program ADD 5* is just an example of what a program will look like.
 
 I started work on the project on the 22/12/23, and finished on the 23/12/23, spending a total of 7 hours and 13 minutes working on the project.  
 
-Thank you so much for checking my first project out!
-
-NOTE: THIS PROJECT IS CURRENTLY NOT FUNCTIONING  
-I NEED TO IMPLEMENT A CLOCK FOR IT TO WORK  
-SORRY IN ADVANCE, I WILL TRY TO COMMIT A FIX ASAP  
+Thank you so much for checking out my first project!
