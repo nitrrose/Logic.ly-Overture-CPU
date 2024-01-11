@@ -1,6 +1,6 @@
 # Logic.ly-Overture-CPU
 
-------- COMPLETE ----------------------------------------------------------------------------------
+------- COMPLETE --------------------------------------------------------------------------------------------------------------------------------
 
 This is my implementation of the OVERTURE CPU architecture from the game Turing Complete.
 Be warned that it will be laggy, and possibly buggy.
